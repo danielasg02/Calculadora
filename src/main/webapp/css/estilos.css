@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    margin: 250px;
+}
+.contenedor{
+    width: 100%;
+    display:inline-block;
+    align-items: center;
+}
+.botones{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.resul{
+    margin-top: 8px;
+}
+.numeros #numero1{
+    margin-bottom: 8px;
+}
+.numeros #numero2{
+    margin-bottom: 8px;
+}
